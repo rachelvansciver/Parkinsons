@@ -1,4 +1,5 @@
-Uses Logistic Regression Algorithm on Parkinsons' Dataset. Parkinsons' Dataset available at https://archive.ics.uci.edu/ml/datasets/Parkinsons. Uses the Data Wrangling libary 
+# Uses Logistic Regression Algorithm on Parkinsons' Dataset. 
+Parkinsons' Dataset available at https://archive.ics.uci.edu/ml/datasets/Parkinsons. Uses the Data Wrangling libary 
 Pandas and ML/DS library sklearn. Information about Logistic Regression Dataset available at https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html.
 More information about Parkinson's Dataset:
 Title: Parkinsons Disease Data Set
@@ -18,7 +19,7 @@ Missing Values? N/A
 
 -----------------------------------------------------	
 
-Source:
+# Source:
 
 The dataset was created by Max Little of the University of Oxford, in 
 collaboration with the National Centre for Voice and Speech, Denver, 
@@ -27,7 +28,7 @@ feature extraction methods for general voice disorders.
 
 -----------------------------------------------------
 
-Data Set Information:
+# Data Set Information:
 
 This dataset is composed of a range of biomedical voice measurements from 
 31 people, 23 with Parkinson's disease (PD). Each column in the table is a 
